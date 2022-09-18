@@ -1,2 +1,4 @@
 # resume-portfolio
-Contained in this repository is my resume, along with any complete or work in progress projects.
+In this repository, you can find my resume. All Completed or work in progress projects will be listed below. 
+Complete: N/A 
+Work in progress: school planner application (RHOLSCHUH/schoolplanner)
